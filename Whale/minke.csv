@@ -1,0 +1,14 @@
+Mapping parameters for Balaenoptera acutorostrata (northern minke whale)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+
+Map data (HSPEC) for predicted occurrences (n = 0): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
